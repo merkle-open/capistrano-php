@@ -1,0 +1,5 @@
+Manifest
+README.rdoc
+Rakefile
+lib/capistrano/php.rb
+lib/init.rb
