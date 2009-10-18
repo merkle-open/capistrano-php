@@ -1,7 +1,7 @@
 = capistrano-php
 
-http://github.com/namics/capistrano-php
-http://gemcutter.org/gems/capistrano-php
+* http://github.com/namics/capistrano-php
+* http://gemcutter.org/gems/capistrano-php
 
 == DESCRIPTION:
 
@@ -21,7 +21,7 @@ require 'capistrano/php'
 
 * sudo gem install capistrano-php
 
-If you haven't addes gemcutter yet:
+If you haven't added gemcutter yet:
 
 * sudo gem install gemcutter
 * gem tumble
